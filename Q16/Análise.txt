@@ -1,0 +1,1 @@
+Ao utilizar a função de clock para medir o tempo de execução das rotinas percebe-se que não é observado uma diferença significativa de tempo quando trabalhamos com vetores com poucos elementos. Porém, conforme aumentamos esse número de elementos a discrepância entre o tempo de execução fica mais nitida, onde o Qsort mostra uma melhor perfomance.
